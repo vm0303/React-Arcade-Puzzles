@@ -1,0 +1,45 @@
+body
+{
+    background: black;
+    height: 100vh;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+
+.title
+{
+    color: #61dbfb;
+    text-align: center;
+    margin: 12px;
+}
+
+.home-text
+{
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+    padding: 15px;
+
+}
+.sub-text {
+    font-weight: 500;
+    color: #60d9f1;
+    letter-spacing: 3px;
+    font-size: 25px;
+
+    margin: 2px;
+    padding: 2px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+}
+.description
+{
+    margin: 15px 0;
+}

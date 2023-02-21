@@ -1,0 +1,17 @@
+footer
+{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 8px;
+    position: absolute;
+    width: 100%;
+    background-image: linear-gradient(to right, #17191c, #29323c, #030d19);
+    color: #ffffff;
+}
+
+
+
+.footer-copyright p
+{
+    margin-bottom: 0;
+}
